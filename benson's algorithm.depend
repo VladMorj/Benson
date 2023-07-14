@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689198230 source:c:\users\miku_\onedrive\Рабочий стол\cpp\proj\benson's algorithm\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+	<cmath>
+
+1689176266 source:c:\users\miku_\onedrive\Рабочий стол\cpp\proj\benson's algorithm\functions.cpp
+
